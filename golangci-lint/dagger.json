@@ -1,0 +1,4 @@
+{
+  "name": "golangci-lint",
+  "sdk": "go"
+}
